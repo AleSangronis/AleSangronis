@@ -1,5 +1,10 @@
 ### Hi there 👋
+<h1>Hola! Soy Alexandra Araujo👋🙋🏻</h1>
 
+<img src="./image-pc.png" min-width="400px" max-width="400px" width="400px" align="right" margin="0 0 50px 0" alt="Computador iuriCode">
+
+<h3>:zap: Sobre mi 💜!</h3>
+  
 <!--
 **AleSangronis/AleSangronis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
