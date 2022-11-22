@@ -40,7 +40,7 @@ The technologies I know are:
  <div>
 <img src="./react.png" alt="react" width="40"/> <img src="./js.png" alt="javascript" width="40"/><img src="./typescript.png" alt="javascript" width="40"/> <img src="./nodejs.png" alt="node" width="40"/> <img src="./html.png" alt="html" width="40"/> <img src="./css-3.png" alt="css" width="40"/><img src="./MongoDB-Logo.png" alt="css" width="40"/> <img src="./postgreSQL.png" alt="css" width="40"/> 
   <div/>
----
+
 
 ## My projects
 
@@ -53,6 +53,7 @@ A simple page aplication (SPA) showing the principal breeds around the world. Th
    <a href="https://github.com/AleSangronis/PI-DOGS" target="_blank"><img src="./dogs2.png" alt="react" width="220" height="150" /></a>
      <a href="https://github.com/AleSangronis/PI-DOGS" target="_blank"><img src="./dogs3.png" alt="react" width="220" height="150" /></a>
        <a href="https://github.com/AleSangronis/PI-DOGS" target="_blank"><img src="./dogs4.png" alt="react" width="220" height="150" /></a>
+        <a href="https://github.com/AleSangronis/PI-DOGS" target="_blank"><img src="./dogs5.png" alt="react" width="220" height="150" /></a>
        
 ### 📊 CoinTracker WebPage 
 
@@ -62,6 +63,7 @@ Website for cryptocurrency lovers
   <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><img src="./coin.png" alt="react" width="220" height="150" /></a>
    <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><img src="./coin1.png" alt="react" width="220" height="150" /></a>
      <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><img src="./coin2.png" alt="react" width="220" height="150" /></a>
+        <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><img src="./coin4.png" alt="react" width="220" height="150" /></a>
     
     
 ## If you want to contact with my
