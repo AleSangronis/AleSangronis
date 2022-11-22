@@ -11,15 +11,65 @@
 <p align="left"> 
 The technologies I know are:
 </p>
-- 🩻 HTML
-- 💅 CSS
-- 🦾 JavaScript
-- 🗂️ TypeScript
-- 💠 React
-- 🟩 Node.js
+<ul align="left" > 
+    <li>
+💠 React and React-Redux
+  </li> 
+   <li>
+🦾 JavaScript
+  </li>
+   <li>
+🗂️ TypeScript
+   </li>
+   <li>
+🟩 Node.js and Express
+    </li>
+ <li> 
+🩻 HTML
+  </li>
+   <li>
+💅 CSS
+     </li>  
+   <li>
+🍃 MongoDB
+     </li>
+   <li>
+🐘  PostgreSQL and Sequelize
+     </li>
+ </ul>
+ <div>
+<img src="./react.png" alt="react" width="40"/> <img src="./js.png" alt="javascript" width="40"/><img src="./typescript.png" alt="javascript" width="40"/> <img src="./nodejs.png" alt="node" width="40"/> <img src="./html.png" alt="html" width="40"/> <img src="./css-3.png" alt="css" width="40"/><img src="./MongoDB-Logo.png" alt="css" width="40"/> <img src="./postgreSQL.png" alt="css" width="40"/> 
+  <div/>
+---
 
-<img src="./html.png" alt="html" width="80"/> <img src="./css-3.png" alt="css" width="80"/> <img src="./js.png" alt="javascript" width="80"/> <img src="./typescript.png" alt="javascript" width="80"/> <img src="./react.png" alt="react" width="80"/> <img src="./nodejs.png" alt="node" width="80"/>
+## My projects
 
+### 🐶 Dogs WebPage
+
+A simple page aplication (SPA) showing the principal breeds around the world. The Dog's data is obtein from api.thedogapi.
+  
+  <hr></hr>
+  <a href="https://github.com/AleSangronis/PI-DOGS" target="_blank"><img src="./dogs1.png" alt="react" width="220" height="150" /></a>
+   <a href="https://github.com/AleSangronis/PI-DOGS" target="_blank"><img src="./dogs2.png" alt="react" width="220" height="150" /></a>
+     <a href="https://github.com/AleSangronis/PI-DOGS" target="_blank"><img src="./dogs3.png" alt="react" width="220" height="150" /></a>
+       <a href="https://github.com/AleSangronis/PI-DOGS" target="_blank"><img src="./dogs4.png" alt="react" width="220" height="150" /></a>
+       
+### 📊 CoinTracker WebPage 
+
+Website for cryptocurrency lovers
+<hr></hr>
+  <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><img src="./coinn.png" alt="react" width="220" height="150" /></a>
+  <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><img src="./coin.png" alt="react" width="220" height="150" /></a>
+   <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><img src="./coin1.png" alt="react" width="220" height="150" /></a>
+     <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><img src="./coin2.png" alt="react" width="220" height="150" /></a>
+    
+    
+## If you want to contact with my
+<a target="_blank">👉 Email✉ sangronisalexandra97@gmail.com</a>
+<br/>
+<a href="https://www.linkedin.com/in/alexandra-carolina-araujo-sangronis-4568a8154/" target="_blank">👉 💼 LinkedIn</a>
+    
+  
 <!--
 **AleSangronis/AleSangronis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
