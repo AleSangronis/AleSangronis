@@ -54,6 +54,7 @@ A simple page aplication (SPA) showing the principal breeds around the world. Th
      <a href="https://github.com/AleSangronis/PI-DOGS" target="_blank"><img src="./dogs3.png" alt="react" width="220" height="150" /></a>
        <a href="https://github.com/AleSangronis/PI-DOGS" target="_blank"><img src="./dogs4.png" alt="react" width="220" height="150" /></a>
         <a href="https://github.com/AleSangronis/PI-DOGS" target="_blank"><img src="./dogs5.png" alt="react" width="220" height="150" /></a>
+         <a href="https://github.com/AleSangronis/PI-DOGS" target="_blank"><img src="./dogs6.png" alt="react" width="220" height="150" /></a>
        
 ### 📊 CoinTracker WebPage 
 
